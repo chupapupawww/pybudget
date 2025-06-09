@@ -62,9 +62,6 @@ gui
 python -m pybudget.gui
 
 🛠️ Development
-Check code style:
-
-flake8 pybudget/
 
 Generate documentation with Sphinx
 cd docs

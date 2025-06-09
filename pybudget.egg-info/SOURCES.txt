@@ -5,6 +5,7 @@ pybudget/analytics.py
 pybudget/budget_manager.py
 pybudget/cli.py
 pybudget/gui.py
+pybudget/logic.py
 pybudget/models.py
 pybudget.egg-info/PKG-INFO
 pybudget.egg-info/SOURCES.txt
