@@ -1,0 +1,7 @@
+click
+matplotlib
+pandas
+pytest
+tox
+flake8
+sphinx
